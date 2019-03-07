@@ -1,0 +1,3 @@
+[submodule "ci-test"] 	
+   path = ci-test
+   url = https://github.com/k2glyph/ci-test.git
